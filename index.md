@@ -3,6 +3,8 @@ title: "My first Homepage"
 author: "Amanda"
 ---
 
+{% include navigation.html %}
+
 # My Homepage
 
 ## Description
