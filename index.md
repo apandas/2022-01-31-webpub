@@ -1,7 +1,6 @@
 ---
-layout: home
-title: "My first homepage"
-author: "jonjab"
+title: "My first Homepage"
+author: "Amanda"
 ---
 
 # My Homepage
