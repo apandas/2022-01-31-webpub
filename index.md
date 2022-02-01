@@ -15,6 +15,4 @@ author: "Amanda"
 
 To learn more, [go to the About page](about.md).
 
-Contact Us!
-- [Library email](mailto: {{ site.email }})  
-- [Amanda's email](mailto: {{ amandaho@ucsb.edu }})
+{% include footer.html %}
