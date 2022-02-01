@@ -1,9 +1,8 @@
 ---
+layout: default
 title: "My first Homepage"
 author: "Amanda"
 ---
-
-{% include navigation.html %}
 
 # My Homepage
 
@@ -14,5 +13,3 @@ author: "Amanda"
 {{ site.description }}
 
 To learn more, [go to the About page](about.md).
-
-{% include footer.html %}
