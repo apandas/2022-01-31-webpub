@@ -9,6 +9,8 @@ This README is a **markdown file** that (may eventually) contains metadata about
 
 This repo is for *learning* how to make websites with jekyll.
 
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
+
 This curriculumn comes from [Carpentries](https://carpentries.org/).  
 Other Carpentries lessons include...
 
